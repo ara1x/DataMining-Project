@@ -16,7 +16,8 @@ The main objective of this project is to analyze students’ academic and demogr
 
 Beyond analysis, this project aims to shed light on the psychological challenges students face, helping to create a more supportive educational environment that reduces anxiety and promotes student well-being.
 
-## 📚 Data Set Source
+
+## Data Set Source
 
 This project utilizes anxiety data from university students, which were part of a broader study examining anxiety, stress, and depression. In this project, the focus is specifically on anxiety.  
 
