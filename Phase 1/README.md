@@ -1,10 +1,13 @@
 # DataMining-Project
 
-### Team Members
-- Rawan Alshammari – 444200348  
-- Aroub Alswayyed – 445202232  
-- Maryam Alhogail – 445201297  
-- Haya Alajmi – 444200581  
+### Group 4 – Section 71161  
+
+| Name             | ID        |
+|------------------|-----------|
+| Rawan Alshammari | 444200348 |
+| Aroub Alswayyed  | 445202232 |
+| Maryam Alhogail  | 445201297 |
+| Haya Alajmi      | 444200581 |
 
 
 ## Project Description
