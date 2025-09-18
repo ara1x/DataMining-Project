@@ -1,6 +1,6 @@
 # DataMining-Project
 
-### Group 4 – Section 71161  
+### Group 29 – Section 71161  
 
 | Name             | ID        |
 |------------------|-----------|
