@@ -15,6 +15,7 @@
 Our project focuses on exploring and understanding university students’ anxiety.  
 It highlights the problem of student anxiety and its potential impact on academic performance,  
 and applies data analysis to uncover meaningful patterns in the dataset.
+The dataset allows us to apply both classification and clustering methods to analyze anxiety levels and related patterns.
 
 ## Project Motivation
 
